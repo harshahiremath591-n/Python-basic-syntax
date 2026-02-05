@@ -1,0 +1,15 @@
+#arithmetic.py
+a=20
+b=6
+addition=a+b
+subtraction=a-b
+multiplication=a*b
+division=a/b
+modulus=a%b
+exponent=a**b
+print("Addition:",addition)
+print("Subtraction:",subtraction)
+print("Multiplication:",multiplication)
+print("Division:",division)
+print("modulus:",modulus)
+print("Exponent:",exponent)
